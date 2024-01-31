@@ -1,3 +1,3 @@
 # ReactJS-Projects
 
-This repository contains all my ReactJS projects.
+Projects and source code for all ReactJS Projects I completed.
